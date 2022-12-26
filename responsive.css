@@ -1,0 +1,16 @@
+@media screen and (max-width:768px) {
+    .demo_main{
+        width: 100%;
+    }
+    .consectetur_text{
+        width: 100%;
+        padding-left: 0;
+    }
+    .bars{
+        display: block;
+    }
+    header .container ul{
+        display: none !important;
+    }
+    
+}
